@@ -1,0 +1,12 @@
+# Ignore large data files
+data/
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore IDE configs
+.idea/
+.vscode/
+*.swp
