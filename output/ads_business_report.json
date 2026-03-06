@@ -1,0 +1,33 @@
+{
+  "report_time": "2026-03-06T10:11:52.346231",
+  "metrics": {
+    "total_records": 100000,
+    "uv": 500,
+    "total_gmv": 1348876.15,
+    "avg_order_value": 2697.75
+  },
+  "funnel": {
+    "view_users": 500,
+    "cart_users": 500,
+    "pay_users": 500,
+    "view_to_cart_rate": "100.00%",
+    "cart_to_pay_rate": "100.00%"
+  },
+  "top_categories_gmv": {
+    "Electronics": 483834.52000000305,
+    "Home": 318056.23000000155,
+    "Books": 304073.2799999989,
+    "Clothing": 242912.12000000055
+  },
+  "action_distribution": {
+    "view": 49984,
+    "cart": 29984,
+    "order": 15038,
+    "pay": 4994
+  },
+  "device_distribution": {
+    "Android": 33325,
+    "iOS": 33319,
+    "Web": 33356
+  }
+}
